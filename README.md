@@ -1,5 +1,5 @@
 # Swipes4SalePreview
-This repo serves a preview of my full stack app for student to student meal swipe exchange at Northeastern Unviersity. I've decided to keep my code private for security reasons as it is an actively published app. 
+This repo serves a showcase/preview of my full stack app for student to student meal swipe exchange at Northeastern Unviersity. I've decided to keep my code private for security reasons as it is an actively published app. 
 
 The following technologies were leverged in the creation of this app:
 - React Native
