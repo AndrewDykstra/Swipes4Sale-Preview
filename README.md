@@ -2,7 +2,7 @@
 
 > A cross-platform iOS and Android marketplace for student-to-student meal swipe exchange at Northeastern University.
 
-*This repo serves as a preview of the full application. The complete codebase is kept private for security reasons.*
+*This repo serves as a preview of the full application. The complete codebase is kept private for security reasons. The app is no longer live following the university restricting third-party meal plan integrations.*
 
 ---
 
